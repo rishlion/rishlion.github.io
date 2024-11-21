@@ -1,6 +1,5 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
+  "Hello! I'm Rishabh.",
   "Thanks for visiting!",
 ];
 
@@ -52,63 +51,23 @@ export const skills = [
 export const projects = {
   webProjects: [
     {
-      projectName: "Programming Diaries",
+      projectName: "Dialectic",
       image: "images/programmingdiaries.png",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-      preview: "https://programmingdiaries.herokuapp.com/",
+        "Dialectic is a platform for students to engage in meaningful discussions and debates about complex topics.",
+      preview: "https://www.dialectic.tools/",
       techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
-    },
-    {
-      projectName: "Find Your Bank",
-      image: "images/findyourbank.png",
-      summary:
-        "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-      preview: "https://clever-fermi-0d5d76.netlify.app",
-      techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-    },
-    {
-      projectName: "Web Portfolio",
-      image: "images/portfolio.png",
-      summary:
-        "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
-    {
-      projectName: "Resume Builder",
-      image: "images/resume-builder.png",
-      summary:
-        "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
+    }
   ],
   softwareProjects: [
     {
-      projectName: "Pizza Ordering ChatBot",
-      image: "images/pizzaorderchatbot.png",
+      projectName: "Dialectic",
+      image: "images/programmingdiaries.png",
       summary:
-        "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-      techStack: ["Dailogflow", "Firebase"],
-    },
-    {
-      projectName: "WhatsApp-Bot",
-      image: "images/whatsappbot.jpg",
-      summary:
-        "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-      preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-      techStack: ["Selenium", "Chrome Webdriver", "Python"],
-    },
-    {
-      projectName: "Bill Generator",
-      image: "images/billgenerator.png",
-      summary:
-        "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/vinaysomawat/Bill-Generator",
-      techStack: ["Tkinter", "Openxlpy", "Python"],
-    },
+        "Dialectic is a platform for students to engage in meaningful discussions and debates about complex topics.",
+      preview: "https://www.dialectic.tools/",
+      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+    }
   ],
   androidProjects: [
     {
